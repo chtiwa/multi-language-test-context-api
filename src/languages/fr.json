@@ -1,0 +1,7 @@
+{
+  "exploreHeader": "Explorer",
+  "welcomeDescription": "C'est une application demo pour un site multi-language  avec React Context API",
+  "clickMe": "Clicker moi",
+  "aboutMe": "Pour plus d'info sur l'auteur",
+  "buttonClicked": "Vous avez clické le button!"
+}
